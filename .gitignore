@@ -290,3 +290,6 @@ fastlane/test_output
 iOSInjectionProject/
 
 # End of https://www.toptal.com/developers/gitignore/api/swift,python,c++
+Swift/main.swift
+Python/main.py
+.vscode/settings.json
